@@ -1,0 +1,4 @@
+# If "true", Ender Pearl will fly more realistically.
+vector-normalize: true
+# ( Ender Pearl default value is 1.8 )
+shot-power: 4.0

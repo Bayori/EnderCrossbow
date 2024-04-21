@@ -1,0 +1,15 @@
+name: EnderCrossbow
+version: '0.1'
+main: net.nekorise.endercrossbow.EnderCrossbow
+api-version: '1.20'
+prefix: EnderCrossbow
+depend: [ ProtocolLib ]
+authors: [Nekorise]
+commands:
+  ecrossbow:
+    permission: ecrossbow.reload
+
+# Permissions
+# ecrosswbow.load
+# ecrossbow.shoot
+# ecrossbow.reload
